@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506194421T8P9YH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260506194421DOJZ13</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA: Modelización de tarifas telefónicas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Matemáticas B - 4ºESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pablo Cabello Toro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta situación de aprendizaje vamos a trabajar las funciones lineales a partir de situaciones reales que forman parte de nuestra vida cotidiana. A menudo tomamos decisiones relacionadas con el dinero, el consumo o el uso de servicios sin analizar realmente qué opción es la más conveniente. Las matemáticas, y en concreto las funciones, nos permiten comprender mejor estas situaciones y tomar decisiones más informadas.
+
+A lo largo de este proyecto vais a trabajar en equipo para analizar un caso real, como por ejemplo diferentes tarifas de un servicio o el coste de un consumo. A partir de datos reales, tendréis que organizarlos, representarlos gráficamente y modelizarlos mediante funciones lineales. Esto os permitirá interpretar la información y justificar qué opción es más adecuada en cada caso.
+
+Además de trabajar contenidos matemáticos, desarrollaréis vuestra competencia digital utilizando herramientas como GeoGebra, Desmos o Google Sheets, que os ayudarán a representar datos y analizar resultados. También trabajaréis en grupo, asumiendo distintos roles, lo que os permitirá mejorar vuestra capacidad de colaboración y comunicación.
+
+El trabajo se organizará en varias sesiones. Primero comprenderéis el problema y recogeréis información. Después representaréis los datos y construiréis el modelo matemático. A continuación, interpretaréis los resultados y tomaréis decisiones justificadas. Finalmente, elaboraréis un producto digital y lo presentaréis al resto de la clase.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778088687291</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>2f711f05-b616-46a0-b27d-9e122b343110</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Modelización de tarifas telefónicas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Modelización de tarifas telefónicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Modelización de tarifas telefónicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>2f711f05-b616-46a0-b27d-9e122b343110</odePageId>
+      <odeBlockId>block-1778080608244-ldw27xy3i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>2f711f05-b616-46a0-b27d-9e122b343110</odePageId>
+          <odeBlockId>block-1778080608244-ldw27xy3i</odeBlockId>
+          <odeIdeviceId>idevice-1778080608241-5xunslk3m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vamos a trabajar las funciones lineales a partir de situaciones reales que forman parte de nuestra vida cotidiana. A menudo tomamos decisiones relacionadas con el dinero, el consumo o el uso de servicios sin analizar realmente qué opción es la más conveniente. Las matemáticas, y en concreto las funciones, nos permiten comprender mejor estas situaciones y tomar decisiones más informadas.</p>
+<p>A lo largo de este proyecto vais a trabajar en equipo para analizar un caso real, como por ejemplo diferentes tarifas de un servicio o el coste de un consumo. A partir de datos reales, tendréis que organizarlos, representarlos gráficamente y modelizarlos mediante funciones lineales. Esto os permitirá interpretar la información y justificar qué opción es más adecuada en cada caso.</p>
+<p>Además de trabajar contenidos matemáticos, desarrollaréis vuestra competencia digital utilizando herramientas como GeoGebra, Desmos o Google Sheets, que os ayudarán a representar datos y analizar resultados. También trabajaréis en grupo, asumiendo distintos roles, lo que os permitirá mejorar vuestra capacidad de colaboración y comunicación.</p>
+<p>El trabajo se organizará en varias sesiones. Primero comprenderéis el problema y recogeréis información. Después representaréis los datos y construiréis el modelo matemático. A continuación, interpretaréis los resultados y tomaréis decisiones justificadas. Finalmente, elaboraréis un producto digital y lo presentaréis al resto de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778080608241-5xunslk3m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vamos a trabajar las funciones lineales a partir de situaciones reales que forman parte de nuestra vida cotidiana. A menudo tomamos decisiones relacionadas con el dinero, el consumo o el uso de servicios sin analizar realmente qué opción es la más conveniente. Las matemáticas, y en concreto las funciones, nos permiten comprender mejor estas situaciones y tomar decisiones más informadas.</p>\n<p>A lo largo de este proyecto vais a trabajar en equipo para analizar un caso real, como por ejemplo diferentes tarifas de un servicio o el coste de un consumo. A partir de datos reales, tendréis que organizarlos, representarlos gráficamente y modelizarlos mediante funciones lineales. Esto os permitirá interpretar la información y justificar qué opción es más adecuada en cada caso.</p>\n<p>Además de trabajar contenidos matemáticos, desarrollaréis vuestra competencia digital utilizando herramientas como GeoGebra, Desmos o Google Sheets, que os ayudarán a representar datos y analizar resultados. También trabajaréis en grupo, asumiendo distintos roles, lo que os permitirá mejorar vuestra capacidad de colaboración y comunicación.</p>\n<p>El trabajo se organizará en varias sesiones. Primero comprenderéis el problema y recogeréis información. Después representaréis los datos y construiréis el modelo matemático. A continuación, interpretaréis los resultados y tomaréis decisiones justificadas. Finalmente, elaboraréis un producto digital y lo presentaréis al resto de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778081698364-ymmswjlii</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos de seguridad y protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Consejos de seguridad y protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778081698364-ymmswjlii</odePageId>
+      <odeBlockId>block-1778081803150-nzu0tozkv</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778081698364-ymmswjlii</odePageId>
+          <odeBlockId>block-1778081803150-nzu0tozkv</odeBlockId>
+          <odeIdeviceId>idevice-1778081803146-feva461ss</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para trabajar en internet, es importante recordar que el entorno digital es como un espacio compartido: ofrece muchas oportunidades para aprender, crear y comunicarnos, pero también requiere responsabilidad y cuidado. </p>
+<p style="text-align: justify;">Cuando utilizamos herramientas digitales para investigar, crear contenidos o compartir nuestro trabajo, debemos proteger nuestra información, respetar a los demás y hacer un uso adecuado de los recursos disponibles. Al igual que cuidamos y respetamos el patrimonio, también debemos cuidar nuestra identidad digital y nuestras acciones en la red. </p>
+<p style="text-align: justify;">Por eso, aquí te dejamos una pequeña guía para trabajar de forma segura y respetuosa en internet, para que te conviertas en un usuario digital consciente y preparado.</p>
+<p> <embed width="600" height="300" style="background-color: #ffffff;" src="{{context_path}}/content/resources/PCt INFOGRAFÍA DERECHOS DE AUTOR.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081803146-feva461ss","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para trabajar en internet, es importante recordar que el entorno digital es como un espacio compartido: ofrece muchas oportunidades para aprender, crear y comunicarnos, pero también requiere responsabilidad y cuidado. </p>\n<p style=\"text-align: justify;\">Cuando utilizamos herramientas digitales para investigar, crear contenidos o compartir nuestro trabajo, debemos proteger nuestra información, respetar a los demás y hacer un uso adecuado de los recursos disponibles. Al igual que cuidamos y respetamos el patrimonio, también debemos cuidar nuestra identidad digital y nuestras acciones en la red. </p>\n<p style=\"text-align: justify;\">Por eso, aquí te dejamos una pequeña guía para trabajar de forma segura y respetuosa en internet, para que te conviertas en un usuario digital consciente y preparado.</p>\n<p> <embed width=\"600\" height=\"300\" style=\"background-color: #ffffff;\" src=\"{{context_path}}/content/resources/PCt INFOGRAFÍA DERECHOS DE AUTOR.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778082699678-9aqsrqn37</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778082699678-9aqsrqn37</odePageId>
+      <odeBlockId>block-1778082701586-jr0xfdfku</odeBlockId>
+      <blockName>Recursos para la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082699678-9aqsrqn37</odePageId>
+          <odeBlockId>block-1778082701586-jr0xfdfku</odeBlockId>
+          <odeIdeviceId>idevice-1778082701584-m41p9kfaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de facilitar el desarrollo de esta Situación de Aprendizaje y favorecer un trabajo autónomo y organizado, se pone a disposición del alumnado un tablero digital en Padlet que recoge los principales recursos y herramientas necesarias para la realización del proyecto. Este espacio ha sido diseñado como un entorno de apoyo que centraliza la información, evitando la dispersión de contenidos y permitiendo un acceso rápido y sencillo a materiales previamente seleccionados y validados. </p>
+<p>En dicho tablero, el alumnado encontrará enlaces a fuentes fiables de información sobre enlaces fiables a información sobre las funciones lineales, así como herramientas digitales para la elaboración de sus presentaciones, recursos visuales y orientaciones básicas para la búsqueda y tratamiento de la información. De este modo, no solo se facilita la realización de las tareas propuestas, sino que también se promueve el desarrollo de la competencia digital, especialmente en lo relativo a la selección crítica de fuentes y al uso responsable de la información. </p>
+<p>Asimismo, el uso de este tipo de recursos contribuye a estructurar el proceso de aprendizaje, ofreciendo una guía clara que mejora la gestión del tiempo en el aula, optimizando así el rendimiento del alumnado. </p>
+<p><br /></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/kcsmsaefz4qnfd2f" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778082701584-m41p9kfaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de facilitar el desarrollo de esta Situación de Aprendizaje y favorecer un trabajo autónomo y organizado, se pone a disposición del alumnado un tablero digital en Padlet que recoge los principales recursos y herramientas necesarias para la realización del proyecto. Este espacio ha sido diseñado como un entorno de apoyo que centraliza la información, evitando la dispersión de contenidos y permitiendo un acceso rápido y sencillo a materiales previamente seleccionados y validados. </p>\n<p>En dicho tablero, el alumnado encontrará enlaces a fuentes fiables de información sobre enlaces fiables a información sobre las funciones lineales, así como herramientas digitales para la elaboración de sus presentaciones, recursos visuales y orientaciones básicas para la búsqueda y tratamiento de la información. De este modo, no solo se facilita la realización de las tareas propuestas, sino que también se promueve el desarrollo de la competencia digital, especialmente en lo relativo a la selección crítica de fuentes y al uso responsable de la información. </p>\n<p>Asimismo, el uso de este tipo de recursos contribuye a estructurar el proceso de aprendizaje, ofreciendo una guía clara que mejora la gestión del tiempo en el aula, optimizando así el rendimiento del alumnado. </p>\n<p><br /></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/kcsmsaefz4qnfd2f\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778082699678-9aqsrqn37</odePageId>
+      <odeBlockId>block-1778083990303-auhb159jc</odeBlockId>
+      <blockName>Recursos para la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778082699678-9aqsrqn37</odePageId>
+          <odeBlockId>block-1778083990303-auhb159jc</odeBlockId>
+          <odeIdeviceId>idevice-1778083990299-xl6l2gjtc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el fin de optimizar el trabajo cotidiano en el aula y favorecer una mejor planificación de las actividades, resulta fundamental disponer de recursos digitales que sean accesibles, comprensibles y estén bien organizados. Se han recopilado aquellas herramientas que se utilizan con mayor frecuencia para la gestión del aula, la comunicación, la elaboración de materiales y el seguimiento del progreso del alumnado. </p>
+<p>Este entorno reúne todos esos recursos en un único espacio, lo que facilita un acceso ágil y funcional tanto para el profesorado como para el alumnado. De esta manera, se promueve un contexto de aprendizaje más organizado, autónomo y alineado con las exigencias del entorno digital actual. </p>
+<p>A continuación, se puede acceder a mi tablero de Symbaloo, donde estos recursos aparecen organizados de forma visual y sencilla para su uso. </p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA_j_fF8AA41_W3RWeg==" title=""><img src="{{context_path}}/content/resources/mceclip0.png" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778083990299-xl6l2gjtc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el fin de optimizar el trabajo cotidiano en el aula y favorecer una mejor planificación de las actividades, resulta fundamental disponer de recursos digitales que sean accesibles, comprensibles y estén bien organizados. Se han recopilado aquellas herramientas que se utilizan con mayor frecuencia para la gestión del aula, la comunicación, la elaboración de materiales y el seguimiento del progreso del alumnado. </p>\n<p>Este entorno reúne todos esos recursos en un único espacio, lo que facilita un acceso ágil y funcional tanto para el profesorado como para el alumnado. De esta manera, se promueve un contexto de aprendizaje más organizado, autónomo y alineado con las exigencias del entorno digital actual. </p>\n<p>A continuación, se puede acceder a mi tablero de Symbaloo, donde estos recursos aparecen organizados de forma visual y sencilla para su uso. </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA_j_fF8AA41_W3RWeg==\" title=\"\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778085597209-hejb53g53</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica: Asociamos tareas a criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica: Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778085597209-hejb53g53</odePageId>
+      <odeBlockId>block-1778085600201-2xzxpftkk</odeBlockId>
+      <blockName>Criterios de evaluación, tareas, agrupamientos y herramientas recomendadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778085597209-hejb53g53</odePageId>
+          <odeBlockId>block-1778085600201-2xzxpftkk</odeBlockId>
+          <odeIdeviceId>idevice-1778085600199-sufrmml42</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar con el desarrollo de la actividad, es importante que el alumnado conozca con claridad qué se espera de su trabajo y cómo será evaluado. Por ello, a continuación se presenta un documento en el que se detallan las tareas que deberán realizar a lo largo de esta Situación de Aprendizaje, así como los criterios de evaluación asociados a las mimas. </p>
+<p>Este documento tiene como finalidad servir de guía durante todo el proceso, facilitando la organización del trabajo y ayudando al alumnado a comprende r qué aspectos son clave en la realización del proyecto. Des este modo, no solo se favorece una mayor autonomía, sino también una implicación más consciente en el propio aprendizaje. </p>
+<p>Además, conocer previamente los criterios de evaluación permite orientar mejor el esfuerzo, mejorar la calidad del producto final y comprender de forma más transparente cómo se valorará el trabajo realizado,. Se recomienda por tanto consultar este documento de forma habitual durante el desarrollo de la actividad. </p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085600199-sufrmml42","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar con el desarrollo de la actividad, es importante que el alumnado conozca con claridad qué se espera de su trabajo y cómo será evaluado. Por ello, a continuación se presenta un documento en el que se detallan las tareas que deberán realizar a lo largo de esta Situación de Aprendizaje, así como los criterios de evaluación asociados a las mimas. </p>\n<p>Este documento tiene como finalidad servir de guía durante todo el proceso, facilitando la organización del trabajo y ayudando al alumnado a comprende r qué aspectos son clave en la realización del proyecto. Des este modo, no solo se favorece una mayor autonomía, sino también una implicación más consciente en el propio aprendizaje. </p>\n<p>Además, conocer previamente los criterios de evaluación permite orientar mejor el esfuerzo, mejorar la calidad del producto final y comprender de forma más transparente cómo se valorará el trabajo realizado,. Se recomienda por tanto consultar este documento de forma habitual durante el desarrollo de la actividad. </p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778085898243-vs45djijm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal de las actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778085898243-vs45djijm</odePageId>
+      <odeBlockId>block-1778085899516-mj5h3vi94</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778085898243-vs45djijm</odePageId>
+          <odeBlockId>block-1778085899516-mj5h3vi94</odeBlockId>
+          <odeIdeviceId>idevice-1778085899514-z4t4sm71t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta una línea temporal que recoge la organización de las distintas fases de esta Situación de Aprendizaje. En ella se detallan las tareas a realizar en cada sesión, así como la distribución del trabajo y el uso de los recursos disponibles. Este esquema permitirá al alumnado tener una visión global del proceso, facilitando la planificación, la gestión del tiempo y el seguimiento de su propio aprendizaje. </p>
+<p><img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-06 at 17.45.04.jpeg" width="1024" height="768" alt="" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085899514-z4t4sm71t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta una línea temporal que recoge la organización de las distintas fases de esta Situación de Aprendizaje. En ella se detallan las tareas a realizar en cada sesión, así como la distribución del trabajo y el uso de los recursos disponibles. Este esquema permitirá al alumnado tener una visión global del proceso, facilitando la planificación, la gestión del tiempo y el seguimiento de su propio aprendizaje. </p>\n<p><img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-05-06 at 17.45.04.jpeg\" width=\"1024\" height=\"768\" alt=\"\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086414625-vwafha6mi</odePageId>
+  <odeParentPageId>page-1778085898243-vs45djijm</odeParentPageId>
+  <pageName>Actividad 1: Presentación y recopilación de datos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: Presentación y recopilación de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086414625-vwafha6mi</odePageId>
+      <odeBlockId>block-1778086416558-xa4sp90ht</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086414625-vwafha6mi</odePageId>
+          <odeBlockId>block-1778086416558-xa4sp90ht</odeBlockId>
+          <odeIdeviceId>idevice-1778086416556-s3ac927gt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_rk4utlrk4utlrk4u.png" width="1408" height="768" alt="" /></p>
+<p>En esta primera sesión vais a conocer el reto que debéis resolver. Se os presentará una situación real relacionada con tarifas o consumo, y vuestro primer objetivo será comprender bien el problema. Para ello, tendréis que identificar qué datos aparecen, qué se os pide y qué variables intervienen.</p>
+<p>Trabajaréis en pequeños grupos y comenzaréis reformulando el problema con vuestras propias palabras, asegurándoos de que todos los miembros del equipo lo entienden. A continuación, iniciaréis la búsqueda de datos que os permitan analizar la situación. Estos datos pueden venir dados o podéis ampliarlos mediante una búsqueda guiada.</p>
+<p>Toda la información que recojáis deberá organizarse en una tabla utilizando Google Sheets. Es importante que los datos estén bien estructurados, ya que los utilizaréis en las siguientes sesiones.</p>
+<p>Durante esta sesión también se asignarán roles dentro del grupo, como coordinador, responsable técnico o portavoz, con el objetivo de mejorar la organización y el trabajo colaborativo.</p>
+<p>* Tarea:<br />o Presentación del reto (análisis de una situación real: tarifas, consumo, etc.)<br />o Identificación de variables y comprensión del problema<br />o Reformulación del problema en lenguaje matemático<br />o Inicio de la recogida de datos</p>
+<p>* Agrupamiento: Gran grupo → Grupos de 3</p>
+<p>* Herramientas:<br />o Padlet<br />o Google Docs</p>
+<p>* Espacio:<br />o Aula</p>
+<p>* Tiempo:<br />o 1 sesión</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086416556-s3ac927gt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_rk4utlrk4utlrk4u.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>\n<p>En esta primera sesión vais a conocer el reto que debéis resolver. Se os presentará una situación real relacionada con tarifas o consumo, y vuestro primer objetivo será comprender bien el problema. Para ello, tendréis que identificar qué datos aparecen, qué se os pide y qué variables intervienen.</p>\n<p>Trabajaréis en pequeños grupos y comenzaréis reformulando el problema con vuestras propias palabras, asegurándoos de que todos los miembros del equipo lo entienden. A continuación, iniciaréis la búsqueda de datos que os permitan analizar la situación. Estos datos pueden venir dados o podéis ampliarlos mediante una búsqueda guiada.</p>\n<p>Toda la información que recojáis deberá organizarse en una tabla utilizando Google Sheets. Es importante que los datos estén bien estructurados, ya que los utilizaréis en las siguientes sesiones.</p>\n<p>Durante esta sesión también se asignarán roles dentro del grupo, como coordinador, responsable técnico o portavoz, con el objetivo de mejorar la organización y el trabajo colaborativo.</p>\n<p>* Tarea:<br />o Presentación del reto (análisis de una situación real: tarifas, consumo, etc.)<br />o Identificación de variables y comprensión del problema<br />o Reformulación del problema en lenguaje matemático<br />o Inicio de la recogida de datos</p>\n<p>* Agrupamiento: Gran grupo → Grupos de 3</p>\n<p>* Herramientas:<br />o Padlet<br />o Google Docs</p>\n<p>* Espacio:<br />o Aula</p>\n<p>* Tiempo:<br />o 1 sesión</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086596133-cs8lgxugz</odePageId>
+  <odeParentPageId>page-1778085898243-vs45djijm</odeParentPageId>
+  <pageName>Actividad 2: Representamos y modelizamos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: Representamos y modelizamos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086596133-cs8lgxugz</odePageId>
+      <odeBlockId>block-1778086598454-i8kgoqh8q</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086596133-cs8lgxugz</odePageId>
+          <odeBlockId>block-1778086598454-i8kgoqh8q</odeBlockId>
+          <odeIdeviceId>idevice-1778086598452-o3libtdyj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_1yofl31yofl31yof.png" width="1408" height="768" alt="" /></p>
+<p>En esta sesión vais a trabajar con los datos que habéis recogido para empezar a analizarlos desde un punto de vista matemático. En primer lugar, completaréis y revisaréis las tablas de datos para aseguraros de que son correctas.</p>
+<p>A continuación, representaréis gráficamente esos datos. Podréis hacerlo utilizando herramientas digitales como GeoGebra o Desmos. Estas herramientas os permitirán visualizar la relación entre las variables y comprobar si se trata de una relación lineal.</p>
+<p>El siguiente paso será ajustar una recta a los datos y obtener la función lineal que los representa. En este proceso es fundamental que comprendáis qué significa la pendiente y qué representa el punto de corte con el eje vertical dentro del contexto del problema.</p>
+<p>El objetivo de esta sesión no es solo obtener una gráfica, sino entender qué está ocurriendo matemáticamente.</p>
+<p>o Organización de datos en tablas<br />o Representación gráfica de los datos<br />o Introducción a la función lineal<br />o Ajuste de rectas a los datos</p>
+<p>* Agrupamiento: Grupos de 3</p>
+<p>* Herramientas:<br />o Google Sheets<br />o GeoGebra / Desmos</p>
+<p>* Espacio:<br />o Aula ordenadores</p>
+<p>* Tiempo:<br />o 1 sesión</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086598452-o3libtdyj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_1yofl31yofl31yof.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>\n<p>En esta sesión vais a trabajar con los datos que habéis recogido para empezar a analizarlos desde un punto de vista matemático. En primer lugar, completaréis y revisaréis las tablas de datos para aseguraros de que son correctas.</p>\n<p>A continuación, representaréis gráficamente esos datos. Podréis hacerlo utilizando herramientas digitales como GeoGebra o Desmos. Estas herramientas os permitirán visualizar la relación entre las variables y comprobar si se trata de una relación lineal.</p>\n<p>El siguiente paso será ajustar una recta a los datos y obtener la función lineal que los representa. En este proceso es fundamental que comprendáis qué significa la pendiente y qué representa el punto de corte con el eje vertical dentro del contexto del problema.</p>\n<p>El objetivo de esta sesión no es solo obtener una gráfica, sino entender qué está ocurriendo matemáticamente.</p>\n<p>o Organización de datos en tablas<br />o Representación gráfica de los datos<br />o Introducción a la función lineal<br />o Ajuste de rectas a los datos</p>\n<p>* Agrupamiento: Grupos de 3</p>\n<p>* Herramientas:<br />o Google Sheets<br />o GeoGebra / Desmos</p>\n<p>* Espacio:<br />o Aula ordenadores</p>\n<p>* Tiempo:<br />o 1 sesión</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086618636-tat2c571h</odePageId>
+  <odeParentPageId>page-1778085898243-vs45djijm</odeParentPageId>
+  <pageName>Actividad 3: Interpretamos y tomamos decisiones</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Interpretamos y tomamos decisiones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086618636-tat2c571h</odePageId>
+      <odeBlockId>block-1778086620303-i894fac0r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086618636-tat2c571h</odePageId>
+          <odeBlockId>block-1778086620303-i894fac0r</odeBlockId>
+          <odeIdeviceId>idevice-1778086620302-9ifxvp32t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_akx8xvakx8xvakx8.png" width="1408" height="768" alt="" /></p>
+<p>Una vez que tenéis el modelo matemático, el siguiente paso es interpretar los resultados. En esta sesión analizaréis qué significa la función que habéis obtenido y cómo se relaciona con la situación real que estáis estudiando.</p>
+<p>Deberéis explicar con claridad qué representa la pendiente y qué indica la ordenada en el origen, siempre dentro del contexto del problema. A partir de ahí, compararéis distintas opciones y decidiréis cuál es la más adecuada, justificando vuestra elección con argumentos matemáticos.</p>
+<p>Durante esta fase compartiréis vuestras conclusiones con el resto de la clase a través de un espacio común como Padlet, lo que permitirá contrastar ideas y enriquecer el aprendizaje.</p>
+<p>El objetivo principal de esta sesión es que seáis capaces de utilizar las matemáticas para tomar decisiones fundamentadas.</p>
+<p>o Interpretación de la pendiente y ordenada en el origen<br />o Análisis de resultados obtenidos<br />o Comparación de distintas opciones<br />o Toma de decisiones justificadas</p>
+<p>* Agrupamiento: Grupos de 3</p>
+<p>* Herramientas:<br />o GeoGebra / Desmos<br />o Padlet </p>
+<p>* Espacio:<br />o Aula</p>
+<p>* Tiempo:<br />o 1 sesión</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086620302-9ifxvp32t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_akx8xvakx8xvakx8.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>\n<p>Una vez que tenéis el modelo matemático, el siguiente paso es interpretar los resultados. En esta sesión analizaréis qué significa la función que habéis obtenido y cómo se relaciona con la situación real que estáis estudiando.</p>\n<p>Deberéis explicar con claridad qué representa la pendiente y qué indica la ordenada en el origen, siempre dentro del contexto del problema. A partir de ahí, compararéis distintas opciones y decidiréis cuál es la más adecuada, justificando vuestra elección con argumentos matemáticos.</p>\n<p>Durante esta fase compartiréis vuestras conclusiones con el resto de la clase a través de un espacio común como Padlet, lo que permitirá contrastar ideas y enriquecer el aprendizaje.</p>\n<p>El objetivo principal de esta sesión es que seáis capaces de utilizar las matemáticas para tomar decisiones fundamentadas.</p>\n<p>o Interpretación de la pendiente y ordenada en el origen<br />o Análisis de resultados obtenidos<br />o Comparación de distintas opciones<br />o Toma de decisiones justificadas</p>\n<p>* Agrupamiento: Grupos de 3</p>\n<p>* Herramientas:<br />o GeoGebra / Desmos<br />o Padlet </p>\n<p>* Espacio:<br />o Aula</p>\n<p>* Tiempo:<br />o 1 sesión</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778086637223-onblgl7lt</odePageId>
+  <odeParentPageId>page-1778085898243-vs45djijm</odeParentPageId>
+  <pageName>Actividad 4: Creamos y exponemos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: Creamos y exponemos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778086637223-onblgl7lt</odePageId>
+      <odeBlockId>block-1778086642082-05d08zhlg</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778086637223-onblgl7lt</odePageId>
+          <odeBlockId>block-1778086642082-05d08zhlg</odeBlockId>
+          <odeIdeviceId>idevice-1778086642080-h0wmr31aw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_akx8xvakx8xvakx8.png" width="1408" height="768" alt="" /></p>
+<p>En la última sesión vais a elaborar el producto final, que consistirá en una presentación o infografía digital en la que recogeréis todo el trabajo realizado. Para ello, podréis utilizar herramientas como Canva o presentaciones digitales.</p>
+<p>En este producto deberéis incluir el planteamiento del problema, los datos utilizados, la representación gráfica, la función obtenida y la interpretación de los resultados. Es importante que la información esté bien organizada y que utilicéis un lenguaje matemático claro y correcto.</p>
+<p>Finalmente, expondréis vuestro trabajo al resto de la clase. Durante la exposición, tendréis que explicar vuestro proceso, justificar vuestras decisiones y responder a posibles preguntas.</p>
+<p>Además, dedicaréis un tiempo a reflexionar sobre el trabajo realizado, identificando qué habéis aprendido, qué dificultades habéis tenido y cómo las habéis resuelto.</p>
+<p>* Tarea:<br />o Elaboración del producto final <br />o Síntesis de la información trabajada<br />o Exposición</p>
+<p>* Agrupamiento: Grupos de 3 → Individual</p>
+<p>* Herramientas:<br />o Canva </p>
+<p>* Espacio:<br />o Aula </p>
+<p>* Tiempo:<br />o 1 sesión</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086642080-h0wmr31aw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_akx8xvakx8xvakx8.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>\n<p>En la última sesión vais a elaborar el producto final, que consistirá en una presentación o infografía digital en la que recogeréis todo el trabajo realizado. Para ello, podréis utilizar herramientas como Canva o presentaciones digitales.</p>\n<p>En este producto deberéis incluir el planteamiento del problema, los datos utilizados, la representación gráfica, la función obtenida y la interpretación de los resultados. Es importante que la información esté bien organizada y que utilicéis un lenguaje matemático claro y correcto.</p>\n<p>Finalmente, expondréis vuestro trabajo al resto de la clase. Durante la exposición, tendréis que explicar vuestro proceso, justificar vuestras decisiones y responder a posibles preguntas.</p>\n<p>Además, dedicaréis un tiempo a reflexionar sobre el trabajo realizado, identificando qué habéis aprendido, qué dificultades habéis tenido y cómo las habéis resuelto.</p>\n<p>* Tarea:<br />o Elaboración del producto final <br />o Síntesis de la información trabajada<br />o Exposición</p>\n<p>* Agrupamiento: Grupos de 3 → Individual</p>\n<p>* Herramientas:<br />o Canva </p>\n<p>* Espacio:<br />o Aula </p>\n<p>* Tiempo:<br />o 1 sesión</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778087053814-8m7rb5zgv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778087053814-8m7rb5zgv</odePageId>
+      <odeBlockId>block-1778088277149-2kqsrefe0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778087053814-8m7rb5zgv</odePageId>
+          <odeBlockId>block-1778088277149-2kqsrefe0</odeBlockId>
+          <odeIdeviceId>idevice-1778088277147-glfmgz5hr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de este proyecto consistirá en la elaboración de una presentación digital o infografía en la que cada grupo mostrará el trabajo realizado a lo largo de las sesiones. En este trabajo deberéis analizar una situación real (como una tarifa o un consumo), utilizando funciones lineales para comprenderla y tomar una decisión justificada.</p>
+<p>En vuestro producto final tendréis que incluir el planteamiento del problema, los datos utilizados organizados en tablas, la representación gráfica, la función lineal obtenida y la interpretación de sus elementos, como la pendiente y la ordenada en el origen. Además, deberéis explicar claramente qué opción es la más adecuada según vuestro análisis y justificar vuestra elección utilizando argumentos matemáticos.</p>
+<p>Para elaborarlo podréis utilizar herramientas digitales como Canva u otras similares, cuidando tanto el contenido como la presentación visual. El objetivo no es solo hacer un trabajo correcto, sino comunicarlo de forma clara, organizada y comprensible.</p>
+<p>Finalmente, cada grupo expondrá su trabajo al resto de la clase, explicando el proceso seguido y las conclusiones obtenidas. Esta exposición será una parte importante del proyecto, ya que os permitirá demostrar vuestra comprensión y vuestra capacidad para comunicar ideas matemáticas.<br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088277147-glfmgz5hr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de este proyecto consistirá en la elaboración de una presentación digital o infografía en la que cada grupo mostrará el trabajo realizado a lo largo de las sesiones. En este trabajo deberéis analizar una situación real (como una tarifa o un consumo), utilizando funciones lineales para comprenderla y tomar una decisión justificada.</p>\n<p>En vuestro producto final tendréis que incluir el planteamiento del problema, los datos utilizados organizados en tablas, la representación gráfica, la función lineal obtenida y la interpretación de sus elementos, como la pendiente y la ordenada en el origen. Además, deberéis explicar claramente qué opción es la más adecuada según vuestro análisis y justificar vuestra elección utilizando argumentos matemáticos.</p>\n<p>Para elaborarlo podréis utilizar herramientas digitales como Canva u otras similares, cuidando tanto el contenido como la presentación visual. El objetivo no es solo hacer un trabajo correcto, sino comunicarlo de forma clara, organizada y comprensible.</p>\n<p>Finalmente, cada grupo expondrá su trabajo al resto de la clase, explicando el proceso seguido y las conclusiones obtenidas. Esta exposición será una parte importante del proyecto, ya que os permitirá demostrar vuestra comprensión y vuestra capacidad para comunicar ideas matemáticas.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+      <odeBlockId>block-1778087498616-bctoqvqkc</odeBlockId>
+      <blockName>Evaluación de la Situación de Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+          <odeBlockId>block-1778087498616-bctoqvqkc</odeBlockId>
+          <odeIdeviceId>idevice-1778087498614-v0vipf5bx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de este proyecto no se basa solo en una nota final, sino que se realizará de forma continua a lo largo de todo el proceso. El objetivo es conocer cómo vais aprendiendo, ayudaros a mejorar y valorar tanto vuestro trabajo como el resultado final.</p>
+<p>Para ello, se utilizarán dos herramientas principales. Al inicio, realizaréis un pequeño cuestionario con Plickers que servirá para conocer vuestros conocimientos previos sobre funciones lineales y poder adaptar mejor las actividades a vuestro nivel. Este cuestionario no contará para nota, sino que ayudará al profesor a detectar posibles dificultades y organizar mejor el trabajo en clase.</p>
+<p>A lo largo del proyecto, y especialmente al final, se utilizará una rúbrica para evaluar vuestro trabajo. Esta rúbrica tendrá en cuenta aspectos como la participación en el grupo, el cumplimiento del rol asignado, el uso adecuado de herramientas digitales, la calidad del trabajo matemático realizado y la forma en la que explicáis vuestras conclusiones. La rúbrica se compartirá desde el principio para que sepáis qué se espera de vosotros en cada momento.</p>
+<p>De esta forma, se evaluará tanto el proceso como el resultado final, teniendo en cuenta vuestro progreso, el trabajo en equipo y la capacidad para aplicar las matemáticas a situaciones reales.<br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778087498614-v0vipf5bx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de este proyecto no se basa solo en una nota final, sino que se realizará de forma continua a lo largo de todo el proceso. El objetivo es conocer cómo vais aprendiendo, ayudaros a mejorar y valorar tanto vuestro trabajo como el resultado final.</p>\n<p>Para ello, se utilizarán dos herramientas principales. Al inicio, realizaréis un pequeño cuestionario con Plickers que servirá para conocer vuestros conocimientos previos sobre funciones lineales y poder adaptar mejor las actividades a vuestro nivel. Este cuestionario no contará para nota, sino que ayudará al profesor a detectar posibles dificultades y organizar mejor el trabajo en clase.</p>\n<p>A lo largo del proyecto, y especialmente al final, se utilizará una rúbrica para evaluar vuestro trabajo. Esta rúbrica tendrá en cuenta aspectos como la participación en el grupo, el cumplimiento del rol asignado, el uso adecuado de herramientas digitales, la calidad del trabajo matemático realizado y la forma en la que explicáis vuestras conclusiones. La rúbrica se compartirá desde el principio para que sepáis qué se espera de vosotros en cada momento.</p>\n<p>De esta forma, se evaluará tanto el proceso como el resultado final, teniendo en cuenta vuestro progreso, el trabajo en equipo y la capacidad para aplicar las matemáticas a situaciones reales.<br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+      <odeBlockId>block-1778087520027-evzoi3hfx</odeBlockId>
+      <blockName>Plickers</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+          <odeBlockId>block-1778087520027-evzoi3hfx</odeBlockId>
+          <odeIdeviceId>idevice-1778087520025-wvrta7jf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. ¿Cuál de las siguientes situaciones puede representarse mediante una función lineal?</p>
+<p>A) La edad de una persona a lo largo del tiempo<br />B) El precio de una tarifa con coste fijo más coste por uso<br />C) La temperatura a lo largo del día<br />D) El crecimiento de una planta</p>
+<p><br />2. Si una cantidad aumenta siempre lo mismo cada vez, decimos que:</p>
+<p>A) Es aleatoria<br />B) Es exponencial<br />C) Es lineal<br />D) Es constante</p>
+<p><br />3. En una función lineal, la pendiente indica:</p>
+<p>A) El valor inicial<br />B) El cambio constante entre variables<br />C) El punto de corte con el eje Y<br />D) El valor máximo</p>
+<p><br />4. ¿Qué representa la ordenada en el origen?</p>
+<p>A) El valor final<br />B) El valor inicial cuando x = 0<br />C) La pendiente<br />D) El punto más alto</p>
+<p><br />5. Si una recta sube de izquierda a derecha, su pendiente es:</p>
+<p>A) Negativa<br />B) Cero<br />C) Positiva<br />D) No existe</p>
+<p><br />6. ¿Qué herramienta usarías para representar gráficamente una función?</p>
+<p>A) Procesador de textos<br />B) Calculadora básica<br />C) GeoGebra<br />D) Correo electrónico</p>
+<p><br />7. Si una tarifa tiene un coste fijo de 5€ y luego 2€ por cada unidad consumida, ¿qué representa el 5?</p>
+<p>A) La pendiente<br />B) El coste total<br />C) La ordenada en el origen<br />D) El incremento</p>
+<p><br />8. ¿Qué significa interpretar datos en un gráfico?</p>
+<p>A) Dibujarlo<br />B) Copiarlo<br />C) Comprender qué información representa<br />D) Memorizarlo</p>
+<p><br />9. ¿Cuál de estas herramientas permite trabajar datos en tabla?</p>
+<p>A) Canva<br />B) Google Sheets<br />C) Padlet<br />D) PowerPoint</p>
+<p><br />10. Cuando trabajamos en grupo con tecnología, lo más importante es:</p>
+<p>A) Que uno haga todo el trabajo<br />B) No usar herramientas digitales<br />C) Colaborar y respetar roles<br />D) Terminar rápido</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778087520025-wvrta7jf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. ¿Cuál de las siguientes situaciones puede representarse mediante una función lineal?</p>\n<p>A) La edad de una persona a lo largo del tiempo<br />B) El precio de una tarifa con coste fijo más coste por uso<br />C) La temperatura a lo largo del día<br />D) El crecimiento de una planta</p>\n<p><br />2. Si una cantidad aumenta siempre lo mismo cada vez, decimos que:</p>\n<p>A) Es aleatoria<br />B) Es exponencial<br />C) Es lineal<br />D) Es constante</p>\n<p><br />3. En una función lineal, la pendiente indica:</p>\n<p>A) El valor inicial<br />B) El cambio constante entre variables<br />C) El punto de corte con el eje Y<br />D) El valor máximo</p>\n<p><br />4. ¿Qué representa la ordenada en el origen?</p>\n<p>A) El valor final<br />B) El valor inicial cuando x = 0<br />C) La pendiente<br />D) El punto más alto</p>\n<p><br />5. Si una recta sube de izquierda a derecha, su pendiente es:</p>\n<p>A) Negativa<br />B) Cero<br />C) Positiva<br />D) No existe</p>\n<p><br />6. ¿Qué herramienta usarías para representar gráficamente una función?</p>\n<p>A) Procesador de textos<br />B) Calculadora básica<br />C) GeoGebra<br />D) Correo electrónico</p>\n<p><br />7. Si una tarifa tiene un coste fijo de 5€ y luego 2€ por cada unidad consumida, ¿qué representa el 5?</p>\n<p>A) La pendiente<br />B) El coste total<br />C) La ordenada en el origen<br />D) El incremento</p>\n<p><br />8. ¿Qué significa interpretar datos en un gráfico?</p>\n<p>A) Dibujarlo<br />B) Copiarlo<br />C) Comprender qué información representa<br />D) Memorizarlo</p>\n<p><br />9. ¿Cuál de estas herramientas permite trabajar datos en tabla?</p>\n<p>A) Canva<br />B) Google Sheets<br />C) Padlet<br />D) PowerPoint</p>\n<p><br />10. Cuando trabajamos en grupo con tecnología, lo más importante es:</p>\n<p>A) Que uno haga todo el trabajo<br />B) No usar herramientas digitales<br />C) Colaborar y respetar roles<br />D) Terminar rápido</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+      <odeBlockId>block-1778087559381-j2wufm9bo</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778087063424-xnp8r6t0u</odePageId>
+          <odeBlockId>block-1778087559381-j2wufm9bo</odeBlockId>
+          <odeIdeviceId>idevice-1778087559379-9m5rjb8sj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/90562.jpg" width="1536" height="848" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778087559379-9m5rjb8sj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/90562.jpg\" width=\"1536\" height=\"848\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778088533833-sckd0gi47</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Céditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Céditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778088533833-sckd0gi47</odePageId>
+      <odeBlockId>block-1778088561295-olababpvs</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778088533833-sckd0gi47</odePageId>
+          <odeBlockId>block-1778088561295-olababpvs</odeBlockId>
+          <odeIdeviceId>idevice-1778088561294-bvx9l112t</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA: Modelización de tarifas telefónicas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta situación de aprendizaje vamos a trabajar las funciones lineales a partir de situaciones reales que forman parte de nuestra vida cotidiana. A menudo tomamos decisiones relacionadas con el dinero, el consumo o el uso de servicios sin analizar realmente qué opción es la más conveniente. Las matemáticas, y en concreto las funciones, nos permiten comprender mejor estas situaciones y tomar decisiones más informadas.
+
+A lo largo de este proyecto vais a trabajar en equipo para analizar un caso real, como por ejemplo diferentes tarifas de un servicio o el coste de un consumo. A partir de datos reales, tendréis que organizarlos, representarlos gráficamente y modelizarlos mediante funciones lineales. Esto os permitirá interpretar la información y justificar qué opción es más adecuada en cada caso.
+
+Además de trabajar contenidos matemáticos, desarrollaréis vuestra competencia digital utilizando herramientas como GeoGebra, Desmos o Google Sheets, que os ayudarán a representar datos y analizar resultados. También trabajaréis en grupo, asumiendo distintos roles, lo que os permitirá mejorar vuestra capacidad de colaboración y comunicación.
+
+El trabajo se organizará en varias sesiones. Primero comprenderéis el problema y recogeréis información. Después representaréis los datos y construiréis el modelo matemático. A continuación, interpretaréis los resultados y tomaréis decisiones justificadas. Finalmente, elaboraréis un producto digital y lo presentaréis al resto de la clase.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pablo Cabello Toro</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
